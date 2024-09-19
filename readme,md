@@ -1,0 +1,3 @@
+Scripts en python para extraer texto e imagenes de un archivo pdf. 
+El texto extraído de traduce empleando como be Ollama y el modelo 
+elegido para la tarea es llama3.1:8b.
